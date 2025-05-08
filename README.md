@@ -1,4 +1,4 @@
-# TicTacToe - README
+# TicTacToe - README - skrencikk
 To prosto skonstruowany skrypt w JS, który umożliwia grę w kółko i krzyżyk dla dwóch osób na planszy 3x3.
 
 ## Jak z niego korzystać?
